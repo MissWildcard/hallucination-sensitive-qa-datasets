@@ -1,0 +1,87 @@
+unit,symbol,entity
+kayser,K,wavenumber
+gal,Gal,acceleration
+dyne,dyn,force
+barye,Ba,pressure
+erg,erg,energy
+poise,P,dynamic viscosity
+stokes,St,kinematic viscosity
+stilb,sb,luminance
+phot,ph,illuminance
+statwatt,statW,power
+statampere,statA,electric current
+statvolt,statV,electric potential difference
+statohm,,electric resistance
+statsiemens or statmho,,electric conductance
+stathenry,,electric inductance
+statfarad,statF,electric capacitance
+statdaraf,statD,electric elastance
+stattesla,,magnetic flux density
+abwatt,abW,power
+abcoulomb,abC,electric charge
+abA) or biot,Bi,electric current
+The abvolt,abV,electric potential difference
+The abohm,abΩ,electric resistance
+The abfarad,abF,electric capacitance
+gilbert,Gb,magnetomotive force
+oersted,Oe,magnetic field strength
+The maxwell,Mx,magnetic flux
+The gauss,G,magnetic flux density
+franklin,Fr,electric charge
+tonne,t,mass
+sthène,sn,force
+pièze,pz,pressure
+cycle per second,cps or cyc/s,frequency
+MKS rayl,,acoustic impedance
+mho,℧,electric conductance
+hyl,,mass
+poncelet,p,power
+fermi,,distance
+angstrom,symbol Å,distance
+micron,μ,distance
+basic module,M,distance
+myriametre,mym,distance
+hebdometre,,distance
+spat,S,distance
+shed,,area
+outhouse,,area
+barn,b,area
+are,a,area
+decare,daa,area
+hectare,ha,area
+lambda,λ,volume
+litre,symbol l or L,volume
+stere,st,volume
+dioptre,,optical power
+svedberg,S or Sv,time
+shake,,time
+sigma,,time
+fresnel,,frequency
+eotvos,E,gravitational gradient
+benz,,speed
+leo,,acceleration
+sverdrup,Sv,volume flow rate
+undecimogramme,,mass
+gamma,γ,mass
+gravet,,mass
+grave,,mass
+bar,,mass
+tex,tex,linear mass density
+The metre sea water,msw,pressure defined as 0.1 bar
+bar,bar,pressure
+foe,,energy
+poiseuille,,dynamic viscosity
+debye,D,electric dipole moment
+buckingham,B,electric quadrupole moment
+jansky,Jy,spectral irradiance
+solar flux unit,,spectral irradiance
+nox,nx,illuminance
+nit,nt,luminance
+lambert,L,luminance
+lumerg,,luminous energy
+talbot,T,luminous energy
+rayleigh,R,photon flux rate density
+rad,rad,absorbed dose
+roentgen equivalent man,rem,equivalent dose
+The rutherford,Rd,radioactivity defined as one million decays per second (1 MBq).
+acoustic ohm,,acoustic impedance

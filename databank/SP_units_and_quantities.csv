@@ -1,0 +1,66 @@
+unit,symbol,entity
+kayser,K,wavenumber
+gal,Gal,acceleration
+dyne,dyn,force
+barye,Ba,pressure
+erg,erg,energy
+poise,P,dynamic viscosity
+stokes,St,kinematic viscosity
+stilb,sb,luminance
+phot,ph,illuminance
+rayl,,specific acoustic impedance
+statwatt,statW,power
+statampere,statA,electric current
+statvolt,statV,electric potential difference
+statfarad,statF,electric capacitance
+statdaraf,statD,electric elastance
+statweber,,magnetic flux
+abwatt,abW,power
+abcoulomb,abC,electric charge
+abvolt,abV,electric potential difference
+abohm,abΩ,electric resistance
+abmho,,electric conductance
+abhenry,,electric inductance
+abfarad,abF,electric capacitance
+gilbert,Gb,magnetomotive force
+oersted,Oe,magnetic field strength
+maxwell,Mx,magnetic flux
+gauss,G,magnetic flux density
+franklin,Fr,electric charge
+tonne,t,mass
+sthène,sn,force
+pièze,pz,pressure
+cycle per second,cps or cyc/s,frequency
+mho,℧,electric conductance
+poncelet,p,power
+angstrom,symbol Å,distance
+micron,μ,distance
+basic module,M,distance
+myriametre,mym,distance
+spat,S,distance
+barn,b,area
+are,a,area
+decare,daa,area
+hectare,ha,area
+lambda,λ,volume
+litre,symbol l or L,volume
+stere,st,volume
+svedberg,S or Sv,time
+eotvos,E,gravitational gradient
+sverdrup,Sv,volume flow rate
+gamma,γ,mass
+tex,tex,linear mass density
+metre sea water,msw,pressure
+bar,bar,pressure
+debye,D,electric dipole moment
+buckingham,B,electric quadrupole moment
+jansky,Jy,spectral irradiance
+nox,nx,illuminance
+nit,nt,luminance
+lambert,L,luminance
+talbot,T,luminous energy
+original,,energy
+rayleigh,R,photon flux rate density
+rad,rad,absorbed dose
+roentgen equivalent man,rem,equivalent dose
+rutherford,Rd,radioactivity

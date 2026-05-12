@@ -1,0 +1,98 @@
+unit,symbol,entity,system_of_units
+kayser,K,wavenumber,CGS
+gal,Gal,acceleration,CGS
+dyne,dyn,force,CGS
+barye,Ba,pressure,CGS
+erg,erg,energy,CGS
+poise,P,dynamic viscosity,CGS
+stokes,St,kinematic viscosity,CGS
+stilb,sb,luminance,CGS
+phot,ph,illuminance,CGS
+rayl,,specific acoustic impedance,CGS
+statwatt,statW,power,CGS
+statcoulomb,statC,electric charge,CGS
+franklin,Fr,electric charge,CGS
+statampere,statA,electric current,CGS
+statvolt,statV,electric potential difference,CGS
+statohm,,electric resistance,CGS
+statsiemens,,electric conductance,CGS
+statmho,,electric conductance,CGS
+stathenry,,electric inductance,CGS
+statfarad,statF,electric capacitance,CGS
+statdaraf,statD,electric elastance,CGS
+statweber,,magnetic flux,CGS
+stattesla,,magnetic flux density,CGS
+abwatt,abW,power,CGS
+abcoulomb,abC,electric charge,CGS
+abampere,abA,electric current,CGS
+biot,Bi,electric current,CGS
+abvolt,abV,electric potential difference,CGS
+abohm,abΩ,electric resistance,CGS
+abmho,,electric conductance,CGS
+abhenry,,electric inductance,CGS
+abfarad,abF,electric capacitance,CGS
+gilbert,Gb,magnetomotive force,CGS
+oersted,Oe,magnetic field strength,CGS
+maxwell,Mx,magnetic flux,CGS
+gauss,G,magnetic flux density,CGS
+tonne,t,mass,MTS
+sthène,sn,force,MTS
+pièze,pz,pressure,MTS
+cycle per second,cps,frequency,MKS
+cycle per second,cyc/s,frequency,MKS
+MKS rayl,,acoustic impedance,MKS
+mho,℧,electric conductance,MKS
+hyl,,mass,MKS
+poncelet,p,power,MKS
+fermi,,distance,MKS
+angstrom,Å,distance,MKS
+micron,μ,distance,MKS
+basic module,M,distance,MKS
+myriametre,mym,distance,MKS
+hebdometre,,distance,MKS
+spat,S,distance,MKS
+shed,,area,MKS
+outhouse,,area,MKS
+barn,b,area,MKS
+are,a,area,MKS
+decare,daa,area,MKS
+hectare,ha,area,MKS
+lambda,λ,volume,MKS
+litre,l,volume,MKS
+stere,st,volume,MKS
+dioptre,,optical power,MKS
+svedberg,S,time,MKS
+svedberg,Sv,time,MKS
+shake,,time,MKS
+sigma,,time,MKS
+fresnel,,frequency,MKS
+eotvos,E,gravitational gradient,MKS
+benz,,speed,MKS
+leo,,acceleration,MKS
+sverdrup,Sv,volume flow rate,MKS
+undecimogramme,,mass,MKS
+gamma,γ,mass,MKS
+gravet,,mass,MKS
+grave,,mass,MKS
+bar,,mass,MKS
+tex,tex,linear mass density,MKS
+metre sea water,msw,pressure,MKS
+bar,bar,pressure,MKS
+foe,,energy,MKS
+poiseuille,,dynamic viscosity,MKS
+Siemens mercury unit,,electric resistance,MKS
+debye,D,electric dipole moment,MKS
+buckingham,B,electric quadrupole moment,MKS
+jansky,Jy,spectral irradiance,MKS
+solar flux unit,,spectral irradiance,MKS
+nox,nx,illuminance,MKS
+nit,nt,luminance,MKS
+lambert,L,luminance,MKS
+lumerg,,luminous energy,MKS
+talbot,T,luminous energy,MKS
+original,,energy,MKS
+rayleigh,R,photon flux rate density,MKS
+rad,rad,absorbed dose,MKS
+roentgen equivalent man,rem,equivalent dose,MKS
+rutherford,Rd,radioactivity,MKS
+acoustic ohm,,acoustic impedance,MKS
