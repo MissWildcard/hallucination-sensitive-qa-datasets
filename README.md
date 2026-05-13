@@ -8,6 +8,7 @@ Included Domains:
 - Roman numeral conversion
 - SI units and quantities
 - Animal collective nouns
+- Books [data_book]
 
 Dataset Design Goals:
 - deterministic factual supervision
@@ -16,10 +17,7 @@ Dataset Design Goals:
 - hallucination-sensitive domains
 - controlled QA generation
 
----
-output:
-  md_document:
-    variant: markdown_github
-bibliography: bibliography.bib
----
-[data_book]
+
+
+## Bibliography
+[data_book]: faellie_lupe, 2023, https://www.kaggle.com/datasets/faellielupe/goodreads-quotes/data
